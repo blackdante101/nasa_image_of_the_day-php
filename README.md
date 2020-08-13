@@ -3,5 +3,9 @@ a web app which displays NASA's image of the day by date entry using the NASA ap
 
 link to NASA Api: https://api.nasa.gov/
 
+# Demo
+
+![nasa api app demo](nasa.gif)
+
 
  
